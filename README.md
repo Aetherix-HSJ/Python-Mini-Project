@@ -1,2 +1,2 @@
-# Python-Mini-Project
+# Python-Mini-Projects
 🐍 A collection of beginner-friendly Python mini-projects built while learning Python fundamentals and problem-solving.
